@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/egorp/IC_design_projects/FP_arithmetic/FP_Multiplier.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FP_Multiplier
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/egorp/IC_design_projects/FP_arithmetic/FP_Multiplier_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FP_Multiplier_tb

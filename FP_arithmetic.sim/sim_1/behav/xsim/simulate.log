@@ -1,0 +1,43 @@
+Time resolution is 1 ps
+Start the simulation with testing
+Test: 3fc00000 * 3fc00000  = 40800000 (Expected output: 40100000)
+                  25 ns: A = 3fc00000, B = 3fc00000, Result = 40800000
+Error: you are dolboeb!
+Test: 40000000 * 3fc00000  = 40800000 (Expected output: 40400000)
+                  35 ns: A = 40000000, B = 3fc00000, Result = 40800000
+Error: you are dolboeb!
+Test: 40490fd0 * 402df84d  = 40100000 (Expected output: 4108a2b3)
+                  45 ns: A = 40490fd0, B = 402df84d, Result = 40100000
+Error: you are dolboeb!
+Test: 3f9e0651 * 33d6bf95  = 40400000 (Expected output: 33f142b1)
+                  55 ns: A = 3f9e0651, B = 33d6bf95, Result = 40400000
+Error: you are dolboeb!
+Test: 425c7e6b * 4207f35c  = 4108a2b3 (Expected output: 44ea308b)
+                  65 ns: A = 425c7e6b, B = 4207f35c, Result = 4108a2b3
+Error: you are dolboeb!
+Test: 414b94e2 * 443ef4bc  = 34048f8a (Expected output: 4617db1f)
+                  75 ns: A = 414b94e2, B = 443ef4bc, Result = 34048f8a
+Error: you are dolboeb!
+Simulation is finished
+$stop called at time : 115 ns : File "C:/Users/egorp/IC_design_projects/FP_arithmetic/FP_Multiplier_tb.sv" Line 83
+Start the simulation with testing
+Test: 3fc00000 * 3fc00000  = 40800000 (Expected output: 40100000)
+                  25 ns: A = 3fc00000, B = 3fc00000, Result = 40800000
+Error: you are dolboeb!
+Test: 40000000 * 3fc00000  = 40800000 (Expected output: 40400000)
+                  35 ns: A = 40000000, B = 3fc00000, Result = 40800000
+Error: you are dolboeb!
+Test: 40490fd0 * 402df84d  = 40100000 (Expected output: 4108a2b3)
+                  45 ns: A = 40490fd0, B = 402df84d, Result = 40100000
+Error: you are dolboeb!
+Test: 3f9e0651 * 33d6bf95  = 40400000 (Expected output: 33f142b1)
+                  55 ns: A = 3f9e0651, B = 33d6bf95, Result = 40400000
+Error: you are dolboeb!
+Test: 425c7e6b * 4207f35c  = 4108a2b3 (Expected output: 44ea308b)
+                  65 ns: A = 425c7e6b, B = 4207f35c, Result = 4108a2b3
+Error: you are dolboeb!
+Test: 414b94e2 * 443ef4bc  = 34048f8a (Expected output: 4617db1f)
+                  75 ns: A = 414b94e2, B = 443ef4bc, Result = 34048f8a
+Error: you are dolboeb!
+Simulation is finished
+$stop called at time : 115 ns : File "C:/Users/egorp/IC_design_projects/FP_arithmetic/FP_Multiplier_tb.sv" Line 83

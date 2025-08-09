@@ -1,0 +1,71 @@
+Time resolution is 1 ps
+Test case           1!, 
+
+At the time 30000, Testing with s9_final = 123456789abc, c9_final = fedcba987654
+At the 30000, g_array matches expected value.
+At time 30000, p_array matches expected value.
+At the time 45000, mantissa_mul matches expected value.
+
+Test case           2!, 
+
+At the time 60000, Testing with s9_final = 0f0f0f0f0f0f, c9_final = f0f0f0f0f0f0
+At the 60000, g_array matches expected value.
+At time 60000, p_array matches expected value.
+At the time 75000, mantissa_mul matches expected value.
+
+Test case           3!, 
+
+At the time 90000, Testing with s9_final = aaaaaaaaaaaa, c9_final = 555555555555
+At the 90000, g_array matches expected value.
+At time 90000, p_array matches expected value.
+At the time 105000, mantissa_mul matches expected value.
+
+Test case           4!, 
+
+At the time 120000, Testing with s9_final = 0000ffffffff, c9_final = ffff00000000
+At the 120000, g_array matches expected value.
+At time 120000, p_array matches expected value.
+At the time 135000, mantissa_mul matches expected value.
+
+Test case           5!, 
+
+At the time 150000, Testing with s9_final = deadbeefcafe, c9_final = 0123456789ab
+At the 150000, g_array matches expected value.
+At time 150000, p_array matches expected value.
+At the time 165000, mantissa_mul matches expected value.
+
+Test case           1!, 
+
+At the time 30000, Testing with s9_final = 123456789abc, c9_final = fedcba987654
+At the 30000, g_array matches expected value.
+At time 30000, p_array matches expected value.
+At the time 45000, mantissa_mul matches expected value.
+
+Test case           2!, 
+
+At the time 60000, Testing with s9_final = 0f0f0f0f0f0f, c9_final = f0f0f0f0f0f0
+At the 60000, g_array matches expected value.
+At time 60000, p_array matches expected value.
+At the time 75000, mantissa_mul matches expected value.
+
+Test case           3!, 
+
+At the time 90000, Testing with s9_final = aaaaaaaaaaaa, c9_final = 555555555555
+At the 90000, g_array matches expected value.
+At time 90000, p_array matches expected value.
+At the time 105000, mantissa_mul matches expected value.
+
+Test case           4!, 
+
+At the time 120000, Testing with s9_final = 0000ffffffff, c9_final = ffff00000000
+At the 120000, g_array matches expected value.
+At time 120000, p_array matches expected value.
+At the time 135000, mantissa_mul matches expected value.
+
+Test case           5!, 
+
+At the time 150000, Testing with s9_final = deadbeefcafe, c9_final = 0123456789ab
+At the 150000, g_array matches expected value.
+At time 150000, p_array matches expected value.
+At the time 165000, mantissa_mul matches expected value.
+
