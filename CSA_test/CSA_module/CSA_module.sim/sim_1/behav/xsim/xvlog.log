@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/egorp/IC_design_projects/FP_arithmetic/CSA_test/CSA_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CSA_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/egorp/IC_design_projects/FP_arithmetic/CSA_test/CSA_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CSA_test

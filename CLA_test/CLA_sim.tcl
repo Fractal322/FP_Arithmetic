@@ -23,6 +23,8 @@ add_wave /CLA_test/uut/g_1 -radix bin
 add_wave /CLA_test/uut/g_2 -radix bin
 add_wave /CLA_test/uut/g_3 -radix bin
 
+
+
 }
 
 if {[current_sim] == ""} {
